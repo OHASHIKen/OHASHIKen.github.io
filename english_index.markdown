@@ -8,7 +8,6 @@ layout: default
 [日本語](./index.html).
 [publication list](./publication.html).
 
-# Affilication
 
 PhD. student at Cosmic-ray lab. of ISEE, Nagoya University.
 
