@@ -12,7 +12,7 @@ layout: default
 
 ## Journal article
 
-### study lead by Ken Ohashi 
+### study led by Ken Ohashi 
 K Ohashi, H Menjo, Y Itow, T Sako, K Kasahara, "Simulation study on the effects of diffractive collisions on the prediction of the observables in ultra-high-energy cosmic-ray experiments", Progress of Theoretical and Experimental Physics, Volume 2021, Issue 3, March 2021, 033F01  [link](https://doi.org/10.1093/ptep/ptab013){:target="_blank"}
 
 ### LHCf Collaborations
